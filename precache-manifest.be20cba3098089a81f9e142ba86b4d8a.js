@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "21aad1dc29ae4cf4e06bc079bc7c4b83",
+    "revision": "5307df0570d4d093bd82d7842342c954",
     "url": "/game1/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/game1/static/css/2.a140de60.chunk.css"
   },
   {
-    "revision": "67d40368a23eecb2d078",
+    "revision": "3f4f53cca6f98171b28d",
     "url": "/game1/static/css/main.0f0eed61.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/game1/static/js/2.bb5b4e7d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "67d40368a23eecb2d078",
-    "url": "/game1/static/js/main.afd0c3dc.chunk.js"
+    "revision": "3f4f53cca6f98171b28d",
+    "url": "/game1/static/js/main.fe123c94.chunk.js"
   },
   {
     "revision": "de184dbccaf894dd332d",
